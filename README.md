@@ -10,7 +10,7 @@ I am fond of UX design, VR/AR technologies, books, music, running and my favorit
 
 ------------------------------------------------------------------
 My stack: React.js, Next.js, JavaScript | Figma, Framer, Photoshop
-Have some experience and projects on SwiftUI and Spark AR
+Have some experience and projects on SwiftUI and Spark AR 
 
 
 <!--
