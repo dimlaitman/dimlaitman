@@ -8,6 +8,11 @@ I am fond of UX design, VR/AR technologies, books, music, running and my favorit
 
 ⁠Open to interesting suggestions, ideas and challenges.
 
+------------------------------------------------------------------
+My stack: React.js, Next.js, JavaScript | Figma, Framer, Photoshop
+Have some experience and projects on SwiftUI and Spark AR
+
+
 <!--
 **dimlaitman/dimlaitman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
