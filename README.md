@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello. I am Dim. ⁠⁠⁠Product manager, Front-End Developer and crypto enthusiast.
+
+⁠⁠⁠I love non-standard tasks, analysis and complete deep dive in the project.
+⁠
+
+I am fond of UX design, VR/AR technologies, books, music, running and my favorite hobby is traveling, visited 30 countries around the world.
+
+
+⁠Open to interesting suggestions, ideas and challenges.
 
 <!--
 **dimlaitman/dimlaitman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
